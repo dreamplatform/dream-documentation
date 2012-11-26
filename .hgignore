@@ -1,0 +1,11 @@
+syntax: glob
+
+eggs
+parts
+develop-eggs
+bin
+.installed.cfg
+build
+repo
+html
+*.swp
